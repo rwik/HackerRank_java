@@ -1,6 +1,6 @@
 //concat , then create two sub
 
-public class Swap_strings {
+public class SwapStrings {
     
     public static void main(String[] args) {
         String str1 = "Apple"; 

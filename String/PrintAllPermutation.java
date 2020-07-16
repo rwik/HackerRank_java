@@ -1,6 +1,6 @@
 //removes leading and trailing space
 
-public class Print_all_permutation {
+public class PrintAllPermutation {
     public static void printAllCombinationOfGivenLength(char[] ar, String st, int n, int k) {
         if (k == 0) {
             System.out.println(st);

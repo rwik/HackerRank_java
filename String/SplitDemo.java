@@ -1,6 +1,6 @@
 
 
-public class Split_demo {
+public class SplitDemo {
     
     public static void main(String[] args) {
         String str = "Namma-Bengaluru"; 

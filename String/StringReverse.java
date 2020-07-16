@@ -1,6 +1,6 @@
 //removes leading and trailing space
 
-public class String_reverse {
+public class StringReverse {
     
     public static void main(String[] args) {
         String str = "Apple"; 

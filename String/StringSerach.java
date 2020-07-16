@@ -1,6 +1,6 @@
 //removes leading and trailing space
 
-public class String_serach {
+public class StringSerach {
     
     public static void main(String[] args) {
         String str = "ok google"; 

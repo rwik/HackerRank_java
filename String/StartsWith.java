@@ -1,6 +1,6 @@
 //removes leading and trailing space
 
-public class Startswith {
+public class StartsWith {
     
     public static void main(String[] args) {
         String str = "ok google"; 

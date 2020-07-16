@@ -1,6 +1,6 @@
 //removes leading and trailing space
 
-public class Trim_Demo {
+public class TrimDemo {
     
     public static void main(String[] args) {
         String str = "             00000123569        "; 

@@ -1,6 +1,6 @@
 //removes leading and trailing space
 
-public class String_Compare {
+public class StringCompare {
     
     public static void main(String[] args) {
         String s1 = "Nikhil";
